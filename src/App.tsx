@@ -8,7 +8,7 @@ import SectionDivider from './components/SectionDivider';
 
 export default function App() {
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className="min-h-screen flex flex-col overflow-x-hidden">
       <Navbar />
       <main className="flex-grow">
         <Hero />
