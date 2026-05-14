@@ -39,7 +39,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <div className="font-barlow text-xs font-bold text-muted uppercase tracking-widest mb-1">E-mail</div>
-                  <div className="font-barlow-condensed font-black text-2xl text-bg-dark group-hover:text-yellow-deep transition-colors">
+                  <div className="font-barlow-condensed font-black text-lg sm:text-xl md:text-2xl text-bg-dark group-hover:text-yellow-deep transition-colors break-all md:break-normal">
                     hurtownia.kurowski@gmail.com
                   </div>
                 </div>
